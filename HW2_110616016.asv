@@ -1,0 +1,2 @@
+[xx, tt] = beat(1, 1, 2000, 32, 11025, 0.26);
+plot(sinusoidAB)
